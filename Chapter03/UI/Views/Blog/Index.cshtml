@@ -1,0 +1,24 @@
+﻿@model BusinessLogic.Blog
+<h2>Display</h2>
+@using (Html.BeginForm())
+{
+	<h4>Blog</h4>
+	<hr />
+	@Html.ValidationSummary(true)
+	<div>
+		<label>@Html.LabelFor(model => model.Name)</label>
+		@Html.EditorFor(model => model.Name)
+		@Html.ValidationMessageFor(model => model.Name)
+	</div>
+	<div>
+		<label>@Html.LabelFor(model => model.Url)</label>
+		@Html.EditorFor(model => model.Url)
+		@Html.ValidationMessageFor(model => model.Url)
+	</div>
+	<div>
+		<label>@Html.LabelFor(model => model.CreationDate)</label>
+		@Html.EditorFor(model => model.CreationDate)
+		@Html.ValidationMessageFor(model => model.CreationDate)
+	</div>
+	<input type="submit" value="Save" />
+}
