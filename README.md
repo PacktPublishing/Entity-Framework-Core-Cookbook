@@ -25,8 +25,7 @@ Software and Hardware List
 | Chapter  | Software required       | OS required           | Free/Proprietary | Download links to the software           |
 | -------- | ------------------------| ----------------------|------------------|------------------------------------------|
 | 1        |Visual Studio 2015       | Windows               |  Proprietary     |  https://www.visualstudio.com            |
-| 2        |SQL Server 2012/2016     | Windows/              |  Proprietary     |https://www.microsoft.com/en-us/          |
-                                                                                 cloud-platform/sql-server-editions-express|
+| 2        |SQL Server 2012/2016     | Windows/              |  Proprietary     |https://www.microsoft.com/en-us/cloud-platform/sql-server-editions-express|
 | 3        |.NET Core                | Windows/Mac OSX/ Linux|  Proprietary     | https://www.microsoft.com/net/core       |
 
 ##Related IBM topics:
