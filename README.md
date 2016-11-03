@@ -1,6 +1,6 @@
-# Entity-Framework-Core-Cookbook
+# Entity Framework Core Cookbook
 
-This is the code repository for [Entity Framework Core Cookbook](https://www.packtpub.com/virtualization-and-cloud/learning-ibm-bluemix?utm_source=github&utm_medium=repository&utm_campaign=9781785887741), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Entity Framework Core Cookbook](https://www.packtpub.com/application-development/entity-framework-core-10-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_content=9781785883309), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##Instructions and Navigation
 All of the code is organized into folders. Each folder starts with number followed by the application name. For example, Chapter02.
