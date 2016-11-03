@@ -30,10 +30,11 @@ Software and Hardware List
 
 ##Related IBM topics:
 
-[Learning IBM Watson Analytics](https://www.packtpub.com/big-data-and-business-intelligence/learning-ibm-watson-analytics?utm_source=github&utm_campaign=9781785880773&utm_medium=repository)
+* [Entity Framework 4.1: Expert’s Cookbook](https://www.packtpub.com/application-development/entity-framework-41-expert%E2%80%99s-cookbook?utm_source=github&utm_medium=repository&utm_content=9781849684460)
 
-[IBM® SmartCloud® Essentials](https://www.packtpub.com/virtualization-and-cloud/ibm%C2%AE-smartcloud%C2%AE-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781782170648)
+* [Mastering Entity Framework](https://www.packtpub.com/application-development/mastering-entity-framework?utm_source=github&utm_medium=repository&utm_content=9781784391003)
 
+* [Entity Framework Tutorial - Second Edition](https://www.packtpub.com/application-development/entity-framework-tutorial-second-edition?utm_source=github&utm_medium=repository&utm_content=9781783550012)
 
 ### Suggestions and Feedback
 [Click here] (https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
