@@ -1,0 +1,13 @@
+﻿@{
+	Layout = "_Layout.cshtml";
+}
+@model BusinessLogic.Blog
+
+<fieldset>
+	<label>
+		@Html.LabelFor(x => x.Title)
+	</label>
+	<span>
+		@Html.DisplayFor(x => x.Title)
+	</span>
+</fieldset>

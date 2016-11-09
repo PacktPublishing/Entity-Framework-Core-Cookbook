@@ -1,0 +1,31 @@
+﻿{
+	"buildOptions": {
+		"copyToOutput": [ "appsettings.json" ]
+	},
+	"dependencies": {
+		"BusinessLogic": "1.0.0-*",
+		"DataAccess": "1.0.0-*",
+		"dotnet-test-xunit": "2.2.0-preview2-build1029",
+		"Microsoft.EntityFrameworkCore.SqlServer": "1.0.1",
+		"Microsoft.Extensions.Configuration": "1.0.0",
+		"Microsoft.Extensions.Configuration.Json": "1.0.0",
+		"Microsoft.Extensions.PlatformAbstractions": "1.0.0",
+		"Microsoft.NETCore.App": {
+			"type": "platform",
+			"version": "1.0.1"
+		},
+		"Moq": "4.6.38-alpha",
+		"xunit": "2.2.0-beta3-build3402"
+	},
+	"frameworks": {
+		"netcoreapp1.0": {
+					"imports": [
+						"dnxcore50",
+						"dotnet5.6",
+						"portable-net45+win8"
+					]
+		}
+	},
+	"testRunner": "xunit",
+	"version": "1.0.0-*"
+}
